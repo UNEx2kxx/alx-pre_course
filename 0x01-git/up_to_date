@@ -1,0 +1,11 @@
+cd /root
+ls
+cd alx-pre course
+ls
+cd 0x01-git
+ls
+git status
+git add up_to_date
+git status
+git commit -m "How to make up to date in git"
+git push origin main
