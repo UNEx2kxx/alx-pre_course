@@ -8,4 +8,5 @@ git status
 git add up_to_date
 git status
 git commit -m "How to make up to date in git"
+git pull origin main
 git push origin main
